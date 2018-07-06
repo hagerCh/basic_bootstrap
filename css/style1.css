@@ -1,0 +1,121 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+hr{
+	width:400px;
+}
+
+.navbar-default{
+	margin-bottom: 0px;
+}
+.img-fulid {
+	margin-left: 20px;
+}
+#name{
+	padding-top: 20px;
+	margin-right: 450px;
+	font-family: Georgia;
+	font-style: italic;
+	color: #B44300;
+	font-size: 30px;
+	font-variant: small-caps;
+	font-stretch: ultra-expanded;
+}
+
+#header li{
+	padding: 5px 25px;
+	font-size: 15px;
+}
+ 
+ #header{
+ 	padding: 0;
+ 	margin:0;
+ }
+#quote{
+	background-image: url("../res/back.jpg"); 
+	width: 100%;
+	height: 700px; 
+}
+
+#quote p{
+	color: #F7E0E0;
+	padding-top: 200px;
+	font-family: Brush Script MT; 
+	font-size: 40px;
+	text-align: center; 
+	font-weight: 10;
+}
+
+.title{
+	font-family: Courier New;
+	font-style: normal;
+	color: #B44300;
+	text-align: center;
+	font-size: 30px;
+}
+
+#landscape{
+	padding: 20px;
+}
+
+#landscape img{
+	margin-top: 20px;
+	height: 600px;
+	width: 500px;
+	border-radius: 10px;
+}
+
+.link{
+	color: black;
+	font-style: normal;
+	text-decoration:none;
+	font-size: 20px; 
+}
+.link:hover{
+	color: #3E372F;
+	text-decoration:underline; 
+}
+
+#col1{
+	height: 500px;
+	width: 800px;
+}
+
+#bw3{
+	width: 800px;
+	height: 500px;
+}
+#bw2, #bw1{
+	width: 500px;
+	height: 700px;
+}
+
+footer{
+	font-family: Georgia;
+	font-style: italic; 
+	font-variant: small-caps; 
+	text-align: right;
+	font-size: 20px;
+	padding: 15px 40px; 
+	background-color: #F0EDED; 
+}
+
+footer a{
+	margin-left: 50px;
+	text-decoration: none;
+	float: left;
+	font-family: Georgia; 
+	font-variant: small-caps; 
+	color: #601414;
+	font-size: 18px;
+}
+
+footer a: hover{
+	margin-left: 50px; 
+	float: left;
+	font-family: Georgia; 
+	font-variant: small-caps; 
+	color: grey;
+}
